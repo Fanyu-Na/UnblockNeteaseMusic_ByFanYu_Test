@@ -24,7 +24,7 @@ cd --进入文件夹--
 node app.js
 ```
 
-![](D:\Files\网易云灰色\img\CMD运行.png)
+![](.\img\CMD运行.png)
 
 ### 方法 1. 修改 hosts
 
@@ -58,7 +58,7 @@ PAC 自动代理脚本地址 `http://<Server Name:PORT>/proxy.pac`
 
 
 
-![](D:\Files\网易云灰色\img\网易云代理设置.png)
+![](.\img\网易云代理设置.png)
 
 ## 致谢
 
