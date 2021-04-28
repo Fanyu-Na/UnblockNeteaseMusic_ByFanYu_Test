@@ -24,7 +24,7 @@ cd --进入文件夹--
 node app.js
 ```
 
-![](.\img\CMD运行.png)
+![](https://raw.githubusercontent.com/Fanyu-Na/UnblockNeteaseMusic_ByFanYu_Test/main/img/CMD%E8%BF%90%E8%A1%8C.png)
 
 ### 方法 1. 修改 hosts
 
@@ -58,7 +58,7 @@ PAC 自动代理脚本地址 `http://<Server Name:PORT>/proxy.pac`
 
 
 
-![](.\img\网易云代理设置.png)
+![](https://raw.githubusercontent.com/Fanyu-Na/UnblockNeteaseMusic_ByFanYu_Test/main/img/%E7%BD%91%E6%98%93%E4%BA%91%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE.png)
 
 ## 致谢
 
