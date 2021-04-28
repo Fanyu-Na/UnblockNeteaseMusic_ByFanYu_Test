@@ -19,7 +19,7 @@
 ### 安装git 通过clone克隆 或直接去去github下载[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
 
 ```cmd
-git clone https://github.com/nondanee/UnblockNeteaseMusic.git
+git clone https://github.com/Fanyu-Na/UnblockNeteaseMusic_ByFanYu_Test.git
 cd --进入文件夹--
 node app.js
 ```
